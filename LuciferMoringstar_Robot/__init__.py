@@ -27,19 +27,23 @@ HELP = """
   /logger  Get Logs
   /delete Delete File From Database
 
-[➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
-
-@Mo_Tech_YT
+Powered By @fileshomeofficial
 """
 
 ABOUT = """
-➥ Name : Auto Filter With IMDB
+➥ Name : Auto Filter Bot
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [LiqWid](t.me/liqwid_x)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ For Movies : [Click Here](https://t.me/fhmoviechat)
+
+➥ For Series : [Click Here](https://t.me/fhserieschat)
+
+➥ Join Channel : [Click Here](https://t.me/fileshomeofficial)
+
+➥ Source Code : [Click Here](https://t.me/kurachkanjiedukkatte)
 """
